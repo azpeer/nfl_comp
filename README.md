@@ -13,7 +13,7 @@ Our goal was to see if we can capture spatial and temporal aspects from the trac
 <img src="opt.png" alt="alt text" width="400" height="300">
 
 
-The resulting counterfactuals made from our optimal policy tree resulted to an additional 0.55 yards, which is decent considering how little information was put into the model when in comparison to the domain experts of defensive coordinators in the NFL. To read the full paper or the longer results please view the project report.  
+The resulting counterfactuals made from our optimal policy tree resulted to an additional 0.55 yards, which is decent considering how little information was put into the model when in comparison to the domain experts of defensive coordinators in the NFL. To read the full paper or the longer results please view the project report. In order to view the jupyter notebooks please view the repo in chrome.
 
 
 # Contributors
